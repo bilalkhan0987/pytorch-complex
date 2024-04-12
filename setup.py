@@ -7,7 +7,7 @@ import setuptools
 with open("README.md", "r", encoding='utf8') as fh:
     readme = fh.read()
 
-with open('HISTORY.rst', "r", encoding='utf8') as history_file:
+"""with open('HISTORY.rst', "r", encoding='utf8') as history_file:
     history = history_file.read()
 
 requirements = [
@@ -18,7 +18,7 @@ setup_requirements = [
 ]
 
 tests_requirements = [
-]
+]"""
 
 setuptools.setup(
     name="pytorch-complex", 
