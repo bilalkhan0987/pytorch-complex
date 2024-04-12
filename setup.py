@@ -41,9 +41,9 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
-    install_requires=requirements,
-    setup_requires=setup_requirements,
-    tests_require=tests_requirements,
+    #install_requires=requirements,
+    #setup_requires=setup_requirements,
+    #tests_require=tests_requirements,
     license='MIT license',
     include_package_data=True,
 )
