@@ -26,9 +26,9 @@ setuptools.setup(
     author="Soumick Chatterjee",
     author_email="soumick.chatterjee@ovgu.de",
     description="Complex Modules for PyTorch",
-    long_description=readme + '\n\n' + history,
-    long_description_content_type="text/markdown",
-    url="https://github.com/soumickmj/pytorch-complex",
+    #long_description=readme + '\n\n' + history,
+    #long_description_content_type="text/markdown",
+    url="https://github.com/bilalkhan0987/pytorch-complex",
     packages=setuptools.find_packages(include=['torchcomplex', 'torchcomplex.*']),
     classifiers=[
         "Programming Language :: Python :: 3.6",
